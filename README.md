@@ -48,3 +48,4 @@ Download and unzip contents from https://github.com/dataprofessor/eda-app/archiv
 streamlit run app.py
 ```
 # test_streamlit
+# test_streamlit
